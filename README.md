@@ -97,6 +97,8 @@ Calibration data:
 #### 📂 `objme`
 3D reconstruction using the **proposed method**
 
+#### 📂 `objNormal`
+Baseline 3D reconstruction without applying any adaptive method
 ---
 
 ## 📊 Results Comparison
