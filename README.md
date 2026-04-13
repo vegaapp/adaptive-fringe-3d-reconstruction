@@ -46,7 +46,7 @@ The goal is to analyze reconstruction performance under challenging reflectivity
 The proposed method improves adaptive fringe projection by enhancing phase estimation under saturation and reflectivity variations.
 
 <p align="center">
-  <img src="Img/Esq1-en.png" alt="Proposed Method Diagram" width="600"/>
+  <img src="img/Esq1-en.png" alt="Proposed Method Diagram" width="600"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ Comparison between:
 - Proposed method  
 
 <p align="center">
-  <img src="Img/all.png" alt="Plastic Object Comparison" width="800"/>
+  <img src="img/all.png" alt="Plastic Object Comparison" width="800"/>
 </p>
 
 ---
