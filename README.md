@@ -71,7 +71,8 @@ Each object folder contains:
 Calibration data:
 - `cp_params.mat` → Camera-projector calibration parameters  
 - `fase_multi.mat` → Phase scaling factors (x and y directions)  
-- `img__pts.mat` → Detected points in calibration images  
+- `img__pts.mat` → Detected points in calibration images
+- `imgxx.jpg` → Pose images for camera-projector calibration
 
 ---
 
