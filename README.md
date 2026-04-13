@@ -17,7 +17,7 @@ The goal is to analyze reconstruction performance under challenging reflectivity
 ### 1. **Label 2024**
 **Haisen Yuan, Yu Li, Jing Zhao, Ling Zhang, Wenjie Li, Yang Huang, Xingyu Gao, Qiadong Xie**
 
-**An adaptive fringe projection method for 3D measurement with high-reflective surfaces**  
+**An adaptive fringe projection method for 3D measurement with high-reflective surfaces**
 🔗 https://doi.org/10.1016/j.optlastec.2023.110062  
 
 ---
