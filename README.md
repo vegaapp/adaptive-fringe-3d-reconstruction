@@ -1,8 +1,3 @@
-Here is a clean, professional **README.md (in English)** ready to paste into your GitHub repository. It includes structure, clarity, and embedded images from your `Img/` folder.
-
----
-
-```markdown
 # Adaptive Fringe Projection for 3D Reconstruction
 
 This repository presents a comparative analysis of different adaptive fringe projection methodologies for 3D reconstruction, particularly focused on objects with high-reflective surfaces.
@@ -45,9 +40,8 @@ The goal is to analyze reconstruction performance under challenging reflectivity
 
 The proposed method improves adaptive fringe projection by enhancing phase estimation under saturation and reflectivity variations.
 
-<p align="center">
-  <img src="img/Esq1-en.png" alt="Proposed Method Diagram" width="600"/>
-</p>
+
+![Proposed Method Diagram](Img/Esq1-en.png)
 
 ---
 
@@ -108,6 +102,8 @@ Comparison between:
 <p align="center">
   <img src="img/all.png" alt="Plastic Object Comparison" width="800"/>
 </p>
+
+
 
 ---
 
