@@ -100,7 +100,7 @@ Comparison between:
 - Proposed method  
 
 <p align="center">
-  <img src="img/all.png" alt="Plastic Object Comparison" width="800"/>
+  <img src="Img/all.png" alt="Plastic Object Comparison" width="800"/>
 </p>
 
 
@@ -135,7 +135,4 @@ For questions or collaborations, please open an issue or contact the repository 
 
 ```
 
----
-
-Si quieres, puedo hacerte una versión más “paper-like” (más formal tipo IEEE/Elsevier) o una versión más atractiva para recruiters o visibilidad en GitHub (badges, highlights, resultados cuantitativos, etc.).
 
