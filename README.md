@@ -56,6 +56,8 @@ The proposed method improves adaptive fringe projection by enhancing phase estim
 
 The dataset is organized into three main objects:
 
+- **Img** → Some images result
+- **MATLAB** → Source developed code
 - **OBJ 1** → Plastic object with reflective surface  
 - **OBJ 2** → Metallic surface object  
 - **OBJ 3** → Complex skin-like surface simulator  
