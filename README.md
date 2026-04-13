@@ -18,6 +18,7 @@ The goal is to analyze reconstruction performance under challenging reflectivity
 **Haisen Yuan, Yu Li, Jing Zhao, Ling Zhang, Wenjie Li, Yang Huang, Xingyu Gao, Qiadong Xie**
 
 **An adaptive fringe projection method for 3D measurement with high-reflective surfaces**
+
 🔗 https://doi.org/10.1016/j.optlastec.2023.110062  
 
 ---
@@ -39,7 +40,8 @@ The goal is to analyze reconstruction performance under challenging reflectivity
 ### 3. **Label ref15**
 **Wei Feng, Shaojing Tang, Xiaodong Zhao, Guodong Sun, Daxing Zhao**
 
-**Adaptive fringe projection for 3D shape measurement with large reflectivity variations using image fusion and predicted search**  
+**Adaptive fringe projection for 3D shape measurement with large reflectivity variations using image fusion and predicted search** 
+
 🔗 https://doi.org/10.1155/2020/4876876  
 
 ---
