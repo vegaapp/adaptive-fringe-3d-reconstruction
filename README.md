@@ -26,6 +26,7 @@ The goal is to analyze reconstruction performance under challenging reflectivity
 **Junhua Sun, Qiongyi Zhang**
 
 **3D shape measurement method for high-reflective surface based on accurate adaptive fringe projection**
+
 🔗 https://doi.org/10.1016/j.optlaseng.2022.106994
 
 - Projects pattern \( t_1 \) with intensity \( I = 255 \)
