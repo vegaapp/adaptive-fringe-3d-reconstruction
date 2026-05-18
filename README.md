@@ -59,9 +59,9 @@ The proposed method in this work consists of the following steps:
 
 2. Project the first low-frequency fringe pattern to obtain the unwrapped and scaled phase, which is used to map the camera coordinates to the projector coordinates.
 
-3. Calculate the correction factor matrix $(F_c)$ to generate the adaptive fringe patterns.
+3. Calculate the correction factor matrix $(F_c)$ to generate the adaptive fringe patterns. Using linear function.
 
-4. Map the correction factor matrix $(F_c)$ onto the projector plane to create the adaptive gratings.
+4. Map the correction factor matrix $(F_c)$ onto the projector plane to generate the adaptive fringe patterns adding a 5 px neighborhood pixel mapping approach. 
 
 5. Perform the standard reconstruction process by multiplying each projected fringe pattern by the correction factor matrix $(F_c)$, resulting in an adaptive reconstruction according to the saturated regions of the object.
 
