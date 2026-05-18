@@ -115,6 +115,9 @@ Calibration data:
 #### 📂 `objNormal`
 Baseline 3D reconstruction without applying any adaptive method
 
+#### 📂 `objokxxx`
+Best reconstruction using 24 phase-shifting steps and 4 groups of grating patterns.
+
 
 ---
 
