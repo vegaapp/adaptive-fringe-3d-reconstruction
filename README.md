@@ -137,6 +137,19 @@ Comparison between:
 </p>
 
 ---
+### 🔹 Skin Lesion Phantom Simulator (N = 6 phase shifts)
+
+Comparison between:
+- Feng method  
+- Sun method  
+- Yuan method  
+- Proposed method  
+
+<p align="center">
+  <img src="Img/all3.png" alt="Skin Lesion Phantom Comparison" width="800"/>
+</p>
+
+---
 
 ## 📌 Notes
 
