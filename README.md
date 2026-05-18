@@ -53,6 +53,18 @@ The proposed method improves adaptive fringe projection by enhancing phase estim
 
 ![Proposed Method Diagram](Img/Esq1-en.png)
 
+The proposed method in this work consists of the following steps:
+
+1. Project the final high-frequency fringe pattern to compute the illumination matrix and identify the saturated regions $(S_t)$.
+
+2. Project the first low-frequency fringe pattern to obtain the unwrapped and scaled phase, which is used to map the camera coordinates to the projector coordinates.
+
+3. Calculate the correction factor matrix $(F_c)$ to generate the adaptive fringe patterns.
+
+4. Map the correction factor matrix $(F_c)$ onto the projector plane to create the adaptive gratings.
+
+5. Perform the standard reconstruction process by multiplying each projected fringe pattern by the correction factor matrix $(F_c)$, resulting in an adaptive reconstruction according to the saturated regions of the object.
+
 ---
 
 ## 📁 Repository Structure
